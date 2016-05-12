@@ -1,0 +1,3 @@
+accessing
+gpaNumber
+	^ gpa number

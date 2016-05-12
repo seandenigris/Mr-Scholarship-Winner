@@ -1,0 +1,16 @@
+{
+	"category" : "MrScholarshipWinner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reading",
+		"math",
+		"writing" ],
+	"name" : "UsSatScore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

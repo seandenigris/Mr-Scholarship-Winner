@@ -1,0 +1,14 @@
+{
+	"category" : "MrScholarshipWinner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "UsCategory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

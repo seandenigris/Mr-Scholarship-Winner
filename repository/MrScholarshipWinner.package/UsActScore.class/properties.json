@@ -1,0 +1,15 @@
+{
+	"category" : "MrScholarshipWinner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"composite",
+		"percentile" ],
+	"name" : "UsActScore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

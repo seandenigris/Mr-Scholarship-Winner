@@ -1,0 +1,15 @@
+{
+	"category" : "MrScholarshipWinner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"number",
+		"percentile" ],
+	"name" : "UsGpa",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

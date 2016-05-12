@@ -1,0 +1,19 @@
+{
+	"category" : "MrScholarshipWinner",
+	"classinstvars" : [
+		"db",
+		"notes" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"applicant",
+		"notes",
+		"testScores",
+		"gpa",
+		"highSchoolRank" ],
+	"name" : "UsApplication",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
