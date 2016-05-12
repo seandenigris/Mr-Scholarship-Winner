@@ -1,3 +1,5 @@
 accessing
 gpaNumber
-	^ gpa number
+	^ gpa
+		ifNotNil: [ gpa number ]
+		ifNil: [ 0 ]

@@ -1,5 +1,5 @@
 as yet unclassified
 fromPercentile: aNumber
 	^ self new
-		percentile: aNumber;
+		percentile: aNumber asFloat;
 		yourself
