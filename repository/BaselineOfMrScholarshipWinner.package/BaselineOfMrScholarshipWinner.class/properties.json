@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMrScholarshipWinner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMrScholarshipWinner",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
