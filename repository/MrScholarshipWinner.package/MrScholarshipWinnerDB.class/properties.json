@@ -1,14 +1,14 @@
 {
-	"category" : "MrScholarshipWinner",
+	"category" : "MrScholarshipWinner-Persistence",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name" ],
-	"name" : "UsCategory",
+		 ],
+	"name" : "MrScholarshipWinnerDB",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SpFileDatabase",
 	"type" : "normal" }

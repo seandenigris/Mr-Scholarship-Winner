@@ -1,7 +1,7 @@
 as yet unclassified
 rankedScores
 	| results |
-	results := self applicantPool collect: [ :e | 
+	results := self applications collect: [ :e | 
 		UsScholarshipScore new
 			applicant: e;
 			gpaScore: (e gpaNumber curvedFrom: self maxGPA);

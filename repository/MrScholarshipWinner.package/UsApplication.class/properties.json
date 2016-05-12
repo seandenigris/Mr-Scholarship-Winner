@@ -1,11 +1,10 @@
 {
 	"category" : "MrScholarshipWinner",
 	"classinstvars" : [
-		"db",
-		"notes" ],
+		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SeanDeNigris 5/21/2015 15:44",
 	"instvars" : [
 		"applicant",
 		"notes",
