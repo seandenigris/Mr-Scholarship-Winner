@@ -1,3 +1,3 @@
 accessing
 applications
-	^ applications
+	^ applications ifNil: [ applications := OrderedCollection new ]

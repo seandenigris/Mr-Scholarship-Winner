@@ -1,4 +1,4 @@
 persistence
 restoreFrom: anObject
 
-	uniqueInstance := anObject.
+	self db: anObject.

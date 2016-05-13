@@ -1,11 +1,12 @@
 {
 	"category" : "MrScholarshipWinner",
 	"classinstvars" : [
-		"uniqueInstance" ],
+		"db" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"year",
 		"applications" ],
 	"name" : "UsScholarship",
 	"pools" : [
