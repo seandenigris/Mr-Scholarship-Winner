@@ -6,13 +6,6 @@ baseline: spec
 		do: [ 
 			spec blessing: #baseline.
 			spec
-				project: 'Glamour'
-					with: [ 
-							spec
-								className: #ConfigurationOfGlamour;
-								versionString: #stable;
-								loads: #('Glamour-Magritte-Presentations');
-								repository: 'http://smalltalkhub.com/mc/Moose/Glamour/main/' ];
 				project: 'Magritte3'
 					with: [ 
 							spec
@@ -24,4 +17,4 @@ baseline: spec
 					with: [ 
 							spec
 								repository: 'github://seandenigris/Simple-Persistence:master/repository' ].
-			spec package: #MrScholarshipWinner with: [ spec requires: #('Glamour' 'Magritte3' 'SimplePersistence') ] ]
+			spec package: #MrScholarshipWinner with: [ spec requires: #('Magritte3' 'SimplePersistence') ] ]
