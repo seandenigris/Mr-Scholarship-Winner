@@ -1,3 +1,3 @@
 accessing
 composite
-	^ self math + self reading + self writing
+	^ self math + self reading" + self writing"

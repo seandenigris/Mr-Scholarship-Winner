@@ -6,7 +6,7 @@ percentileForComposite: aNumber
 	dataPoints := { 
 		1100 -> 67.
 		1110 -> 69.
-		1270 -> 88.
+		1350 -> 94.
 		"1700 -> 73.
 		1760 -> 78.
 		1940 -> 90.
